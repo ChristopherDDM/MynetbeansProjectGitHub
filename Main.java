@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int opcion = -1; HEYY
+        int opcion = -40; 
 
         while (opcion != 0) {
             System.out.println("\n--- Prueba de validaciones ---");
